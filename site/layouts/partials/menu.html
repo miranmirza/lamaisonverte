@@ -1,0 +1,24 @@
+<div class="bg-off-white pv4" id="menu">
+    <div class="ph3 mw7 center">
+        <h2 class="mb-4 text-uppercase pb_letter-spacing-2 text-center">Menu</h2>
+        <ul class="nav nav-pills mb-3 justify-content-center" id="pills-tab" role="tablist">
+            {{ range $index, $element := .menu }}
+            <li class="nav-item" role="presentation">
+                <button class="nav-link text-uppercase {{ if not $index }}active{{ end }}" id="pills-{{$element.id}}-tab"
+                    data-bs-toggle="pill" data-bs-target="#{{$element.id}}" type="button" role="tab"
+                    aria-controls="{{$element.id}}" aria-selected="false">{{ $element.heading }}</button>
+            </li>
+            {{end}}
+        </ul>
+        <div class="tab-content" id="pills-tabContent">
+            {{ range $index, $element := .menu }}
+            <div class="tab-pane fade food-menu {{ if not $index }}show active{{ end }}" id={{$element.id}}
+                role="tabpanel" aria-labelledby="pills-contact-tab">
+                <div class="flex flex-wrap">
+                    {{$element.text | markdownify}}
+                </div>
+            </div>
+            {{end}}
+        </div>
+    </div>
+</div>

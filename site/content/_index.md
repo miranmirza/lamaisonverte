@@ -15,7 +15,7 @@ intro:
 
     **Hours of Operation**
 
-    Daily (1:00pm – 12:00am midnight)
+    Daily (1:00PM – 12:00AM midnight)
 
 
     *Also, open for Group Reservation: 10 person minimum*
@@ -75,13 +75,19 @@ menu:
   - heading: Desserts
     id: desserts
     text: |-
-      **Café Gourmand
-      Crème Brulée à la vanille
-      Chocolate Fondant
-      Profiteroles
-      Pain Perdu, strawberry mint coulis, salted caramel
-      Chocolate dome flambé au Grand Marnier
-      Panna cotta & passion fruit**
+      **Café Gourmand**
+
+      **Crème Brulée à la vanille**
+
+      **Chocolate Fondant**
+
+      **Profiteroles**
+
+      **Pain Perdu, strawberry mint coulis, salted caramel**
+
+      **Chocolate dome flambé au Grand Marnier**
+
+      **Panna cotta & passion fruit**
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
