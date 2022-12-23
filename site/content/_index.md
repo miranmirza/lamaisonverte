@@ -88,4 +88,11 @@ values:
     one of colonialism and mindless abuse of natural resources and human lives.
     We want to turn this around and return the coffee trade to the drink’s
     exhilarating, empowering and unifying nature.
+gallery:
+  - imgSrc: img/623a4363e.jpg
+    imgTitle: Main Dining Room
+  - imgSrc: img/img_0019.jpeg
+    imgTitle: Lounge Area
+  - imgSrc: img/img_0025.jpeg
+    imgTitle: Lounge
 ---
