@@ -1,16 +1,39 @@
 <div class="bg-off-white pv4" id="about">
   <div class="ph3 mw7 center">
     <h2 class="f2 b lh-title mb2">{{.intro.heading | upper}}</h2>
-    <p class="mb4 mw6">{{.intro.text | markdownify}}</p>
+    <div class="intro-text">{{.intro.text | markdownify}}</div>
 
-    <div class="flex-ns mhn2-ns mb3">
+    
+    <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
       {{ range .menu }}
-      <div class="ph2-ns w-50-ns">
-        <img src="{{.image}}" alt="" class="center db mb3" style="width: 240px">
-        <p>{{.text}}</p>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" id="pills-{{.id}}-tab" data-bs-toggle="pill" data-bs-target="#{{.id}}" type="button"
+          role="tab" aria-controls="{{.id}}" aria-selected="false">{{ .heading }}</button>
+      </li>
+      {{end}}
+    </ul>
+    <div class="tab-content" id="pills-tabContent">
+      {{ range .menu }}
+      <div class="tab-pane fade food-menu" id={{.id}} role="tabpanel" aria-labelledby="pills-contact-tab">
+        <div class="flex flex-wrap">
+          {{.text | markdownify}}
+        </div>
+      </div>
+      {{end}}
+      <!-- <div class="tab-pane fade" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">1...</div> -->
+      <!-- <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">2...</div> -->
+    </div>
+
+
+
+    <!-- <div class="food-menu">
+      {{ range .menu }}
+      <h2>{{ .heading }}</h2>
+      <div class="flex flex-wrap">
+        {{.text | markdownify}}
       </div>
       {{ end }}
-    </div>
+    </div> -->
 
     <!-- <div class="tc">
       <a href="/products" class="btn raise">See all products</a>

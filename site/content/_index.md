@@ -36,6 +36,7 @@ products:
       fall in love with in our shop.
 menu:
   - heading: Main Courses
+    id: main-courses
     text: |-
       **Seared Jumbo Shrimps, Glazed Vegetables**
 
