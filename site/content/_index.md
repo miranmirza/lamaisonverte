@@ -11,15 +11,14 @@ intro:
     French cuisine in an elegant and ambient atmosphere.
 
 
+
+
     **Hours of Operation**
 
     Daily (1:00pm – 12:00am midnight)
 
 
-
     *Also, open for Group Reservation: 10 person minimum*
-
-
 
 
     For reservations [+962 6 5685746](tel:+96265685746)
