@@ -1,8 +1,9 @@
 ---
-title: Menu
+title: 'Menu'
+layout: "menu"
 values:
-  - heading: Main Courses
-    text: |-
+  - heading: "Main Courses"
+    text: >-
       **Seared Jumbo Shrimps, Glazed Vegetables**
 
 

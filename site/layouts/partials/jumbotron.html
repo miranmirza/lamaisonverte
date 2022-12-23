@@ -1,18 +1,13 @@
-<div class="pv5 pv6-l ph3 bg-center cover vh-100 bg-opacity" style="background-image: url('{{.imageUrl}}')">
-  <div class="mw7 center ph3">
-    <div class="flex flex-column items-center">
-      <div class="mw7 relative bg-fix-primary mb3">
-        <h1 class="f2 f1-l di lh-title mb3 white mw6 tangerine">
-          {{.title}}
-        </h1>
-      </div>
-      <div class="mw7 relative bg-fix-primary">
-        {{ if .subtitle }}
-        <p class="fw3 f4 di lh-title mb3 white mw6">
-          {{.subtitle}}
-        </p>
-        {{ end }}
-      </div>
-    </div>
+<div class="flex bg-center cover vh-100 bg-opacity" style="background-image: url('{{.imageUrl}}')">
+  <div class="flex flex-column items-center z-1 self-center w-100">
+    <h1 class="f2 f1-l di lh-title mb3 white mw6 tangerine">
+      {{.title}}
+    </h1>
+
+    {{ if .subtitle }}
+    <p class="fw3 f4 di lh-title mb3 white mw6">
+      {{.subtitle}}
+    </p>
+    {{ end }}
   </div>
 </div>

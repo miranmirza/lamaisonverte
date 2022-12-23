@@ -1,5 +1,7 @@
 ---
-heading: Founded in 1992
+title: 'About'
+heading: 'Founded in 1992'
+layout: "about"
 ---
 La Maison Verte is a multi award winning French restaurant famously known
 for its Steak Frites with Café de Paris sauce, various steaks and seafood.
