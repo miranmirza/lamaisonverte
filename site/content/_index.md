@@ -72,6 +72,16 @@ menu:
       Grilled tomatoes, sautéed spinach, and roasted potatoes
 
       **200g Entrecôte Café de Paris, French Fries**
+  - heading: Desserts
+    id: desserts
+    text: |-
+      **Café Gourmand
+      Crème Brulée à la vanille
+      Chocolate Fondant
+      Profiteroles
+      Pain Perdu, strawberry mint coulis, salted caramel
+      Chocolate dome flambé au Grand Marnier
+      Panna cotta & passion fruit**
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
