@@ -1,9 +1,9 @@
-<section class="bg-off-white pv5" id="menu">
+<section class="bg-off-white px-4 py-5" id="menu">
     <div class="center container">
         <h2 class="mb-4 text-uppercase pb_letter-spacing-2 text-center">Menu</h2>
         <ul class="nav nav-pills mb-3 justify-content-center" id="pills-tab" role="tablist">
             {{ range $index, $element := .menu }}
-            <li class="nav-item" role="presentation">
+            <li class="nav-item nav-item--menu" role="presentation">
                 <button class="nav-link nav-link--custom text-uppercase {{ if not $index }}active{{ end }}" id="pills-{{$element.id}}-tab"
                     data-bs-toggle="pill" data-bs-target="#{{$element.id}}" type="button" role="tab"
                     aria-controls="{{$element.id}}" aria-selected="false">{{ $element.heading }}</button>
