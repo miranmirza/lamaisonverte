@@ -3,13 +3,14 @@
 	<div class="container">
 		<div class="row text-center">
 			<ul class="list-inline">
-              <li class="list-inline-item"><a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/lamaisonvertejordan/" class="p-2"><i class="fa fa-facebook"></i></a></li>
-              <li class="list-inline-item"><a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/lamaisonverterestaurant/" class="p-2"><i class="fa fa-instagram"></i></a></li>
-              <li class="list-inline-item"><a target="_blank" rel="noopener noreferrer" href="https://www.tripadvisor.com/Restaurant_Review-g293986-d839334-Reviews-La_Maison_Verte-Amman_Amman_Governorate.html" class="p-2"><i class="fa fa-tripadvisor"></i></a></li>
+				{{ range $index, $element := .socials }}
+					<li class="list-inline-item"><a target="_blank" rel="noopener noreferrer"
+							href="{{$element.url}}" class="p-2"><i class="fa {{$element.icon}}"></i></a></li>
+				{{end}}
             </ul>
 		</div>
 		<div class="row text-center">
-			<p>© {{ now.Year }} La Maison Verte. All Rights Reserved.</p>
+			<p>© {{ now.Year }} {{ .Title }}. All Rights Reserved.</p>
 		</div>
 	</div>
 
