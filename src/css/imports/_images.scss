@@ -6,3 +6,12 @@ img {
 img:not(.w-100) {
   border-radius: var(--border-radius);
 }
+
+.gallery-image {
+  img {
+    transition: box-shadow .3s;
+    &:hover {
+      box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.4);
+    }
+  }
+}
