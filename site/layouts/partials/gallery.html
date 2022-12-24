@@ -1,13 +1,13 @@
-<div class="bg-off-white pv5" id="gallery">
+<section class="bg-off-white pv5" id="gallery">
     <div class="container center">
         <h2 class="mb-4 text-uppercase pb_letter-spacing-2 text-center">Gallery</h2>
         <div class="row">
             {{ range $index, $element := .gallery }}
-            <a href="{{.imgSrc}}" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4">
+            <a href="{{.imgSrc}}" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4 mv4 gallery-image">
                 <img src="{{.imgSrc}}" class="img-fluid rounded-0">
             </a>
             {{end}}
         </div>
 
     </div>
-</div>
+</section>

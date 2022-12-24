@@ -105,14 +105,20 @@
 }
 
 .bg-opacity {
-  &:before {
-    background: black;
-    opacity: 0.4;
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    content: "";
-  }
+  backdrop-filter: brightness(60%);
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  // filter: brightness(60%);
+  // &:before {
+  //   background: black;
+  //   opacity: 0.4;
+  //   position: absolute;
+  //   top: 0;
+  //   left: 0;
+  //   right: 0;
+  //   bottom: 0;
+  //   content: "";
+  // }
 }

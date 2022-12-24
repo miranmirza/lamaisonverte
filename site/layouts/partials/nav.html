@@ -1,19 +1,30 @@
-<nav class="overflow-x-scroll overflow-x-visible-ns flex justify-between items-center center bg-white divider-grey fixed w-100 z-1">
+<!-- Mark up for Site Navigation Section-->
+<nav class="main-nav navbar navbar-expand-lg {{ if not $.IsHome }}main-nav-colored{{ end }}">
+  <div class="container-fluid">
+    <!-- <a href="{{.Site.BaseURL}}" class="navbar-brand">
+      <img src="{{ .Site.Params.logo | absURL}}" alt="site-logo" />
+    </a> -->
+    <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav"
+      aria-expanded="false">
+      <i class="fa fa-bars"></i>
+    </button>
 
-	<!-- Logo -->
-	<a href="/" class="pa3 db mr4 h-100 w3 flex-none">
-		<img src="/img/logo.svg" alt="Kaldi logo" class="br0 db mb0 w-100"/>
-	</a>
-
-	<!-- Primary Nav -->
-	<ul class="flex b grey-3">
-		<li><a href="/products" class="pa3 no-underline db">Products</a></li>
-
-		<li><a href="/values" class="pa3 no-underline db">Values</a></li>
-
-		<li><a href="/post" class="pa3 no-underline db">Blog</a></li>
-
-		<li><a href="/contact" class="pa3 no-underline db">Contact</a></li>
-	</ul>
-
+    <div class="collapse navbar-collapse nav-list justify-content-center" id="mainNav">
+      <ul class="navbar-nav">
+        <li class="nav-item"><a class="nav-link text-uppercase pb_letter-spacing-2" href="#about">About</a></li>
+        <li class="nav-item"><a class="nav-link text-uppercase pb_letter-spacing-2" href="#menu">Menu</a></li>
+        <li class="nav-item logo-center d-xl-block d-lg-block d-md-none d-sm-none d-none">
+          <a class="nav-link text-uppercase pb_letter-spacing-2" href="#">
+            <img src="assets/images/restaurant/logo.jpeg" alt="La Maison Verte Logo" class="main__logo">
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-uppercase pb_letter-spacing-2" href="#gallery">Gallery</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-uppercase pb_letter-spacing-2" href="#contact">Contact</a>
+        </li>
+      </ul>
+    </div>
+  </div>
 </nav>

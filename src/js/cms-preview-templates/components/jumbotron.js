@@ -6,10 +6,10 @@ export default class Jumbotron extends React.Component {
 
     return (
       <div
-        class="flex bg-center cover vh-100 bg-opacity"
+        class="flex bg-center cover vh-100"
         style={{ backgroundImage: `url(${image})` }}
       >
-        <div class="flex flex-column items-center z-1 self-center w-100">
+        <div class="flex flex-column items-center z-1 self-center w-100 bg-opacity">
           <h1 class="f2 f-6-m di lh-title mb3 white tangerine">{title}</h1>
 
           {subtitle && (
