@@ -16,6 +16,21 @@ collections: # A list of collections the CMS should be able to edit
   #     - {label: "Intro Blurb", name: "description", widget: "text"}
   #     - {label: "Image", name: "image", widget: "image", required: false}
   #     - {label: "Body", name: "body", widget: "markdown"}
+  - name: "settings"
+    label: "Settings"
+    files:
+      - file: "site/data/site-settings.yml"
+        label: "Global Settings"
+        name: "globalSettings"
+        fields:
+          - {label: "Logo", name: "logo", widget: "image"}
+          - {label: "Description", name: "description", widget: "text", required: false}
+          - {label: "Google Tag Manager ID", name: "gtm_id", widget: "text", required: false}
+          - {label: "Phone", name: "phone", widget: "text", required: false}
+          - {label: "Email", name: "mailto", widget: "text", required: false}
+          - {label: "Country", name: "country", widget: "text", required: false}
+          - {label: "Address", name: "address", widget: "text", required: false}
+          - {label: "Footer Text", name: "footer", widget: "text", required: false}
   - name: "pages"
     label: "Sections"
     files:
