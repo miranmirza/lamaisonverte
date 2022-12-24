@@ -19,7 +19,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: "settings"
     label: "Settings"
     files:
-      - file: "site/data/site-settings.yml"
+      - file: "site/data/settings.yml"
         label: "Global Settings"
         name: "globalSettings"
         fields:

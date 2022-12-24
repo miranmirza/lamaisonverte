@@ -71,6 +71,8 @@
   .navbar-toggler {
     outline: 0;
     padding: 0;
+    border: none;
+    box-shadow: none;
 
     .icon-bar {
       width: 25px;
@@ -171,4 +173,9 @@
     @extend .nav-bg;
     box-shadow: none;
   }
+}
+
+.main__logo {
+  border-radius: 50% !important;
+  height: 80px;
 }
