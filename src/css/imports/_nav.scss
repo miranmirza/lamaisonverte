@@ -145,14 +145,13 @@
     .navbar-nav {
       .nav-item {
         .nav-link {
-        //   color: $text-color-dark;
+          // Update
+          color: #000;
           &.active {
             // color: $primary-color;
+            color: red;
             font-weight: bolder;
           }
-        //   &::before {
-        //     background: darken($color: $white, $amount: 10);
-        //   }
         }
       }
     }

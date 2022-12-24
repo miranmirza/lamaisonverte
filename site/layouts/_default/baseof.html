@@ -1,7 +1,7 @@
 <!doctype html>
-<html lang="{{ $.Site.Language.Lang }}" style="font-size: 16px">
+<html lang="{{ $.Site.Language.Lang }}">
   {{ partial "head" . }}
-  <body>
+  <body data-spy="scroll" data-target="#mainNav">
 
     {{ block "header" . }}{{ partial "nav" . }}{{end}}
 

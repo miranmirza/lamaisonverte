@@ -13,11 +13,6 @@
 	/* Typography */
 	--font-family: "Montserrat", Arial, sans-serif;
 	--line-height: 1.5;
-
-	--font-size: 18px;
-	--font-size-m: 20px;
-	--font-size-l: 22px;
-
 	--body-font-weight: 400;
 	--bold-font-weight: 700;
 
@@ -35,3 +30,7 @@
 	--border-radius: .25rem;
 	--hover-transition: all 150ms ease;
 }
+
+
+$black: #000000;
+$white: #ffffff;
