@@ -1,0 +1,46 @@
+<section class="contact" id="contact">
+    <div class="container-fluid g-0">
+        <div class="row g-0">
+            <div class="col-lg-6">
+                <div class="contact-aria">
+                    <h2 class="text-uppercase pb_letter-spacing-2 ">
+                        Get in Touch
+                    </h2>
+                    <form id="contact-form" class="contact-form" method="POST" netlify>
+                        <div class="input-wrapper form-floating">
+                            <input type="text" class="form-control" id="fullName" name="Name" placeholder="Full Name">
+                            <label class="form-label" for="fullName">Full Name</label>
+                            <span class="line-border" aria-hidden="true"></span>
+                        </div>
+                        <div class="input-wrapper form-floating">
+                            <input type="email" class="form-control" id="emailAddress" name="email" placeholder="Email Address"
+                                required>
+                            <label class="form-label" for="emailAddress">Email Address</label>
+                            <span class="line-border" aria-hidden="true"></span>
+                        </div>
+                        <div class="input-wrapper form-floating">
+                            <input type="tel" class="form-control" id="phoneNumber" name="phone" placeholder="Phone Number"
+                                optional>
+                            <label class="form-label" for="phoneNumber">Phone Number</label>
+                            <span class="line-border" aria-hidden="true"></span>
+                        </div>
+                        <div class="input-wrapper form-floating">
+                            <textarea class="form-control" id="message" rows="1" name="message" placeholder="Message"></textarea>
+                            <label class="form-label" for="message">Message</label>
+                            <span class="line-border" aria-hidden="true"></span>
+                        </div>
+                        <button type="submit" class="btn pb_outline-dark pb_letter-spacing-2 p-3 rounded-0" id="contact-form-button">
+                            <span class="f6">Send Message <i class="fa fa-paper-plane-o" aria-hidden="true"></i></span>
+                        </button>
+                        <p id="contact-form-status"></p>
+                    </form>
+            
+            
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="group-picture" style="background-image: url( https://images.pexels.com/photos/14840714/pexels-photo-14840714.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2 );"></div>
+            </div>
+        </div>
+    </div>
+</section>

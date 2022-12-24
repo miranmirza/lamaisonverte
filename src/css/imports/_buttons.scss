@@ -9,6 +9,23 @@
   font-weight: var(--bold-font-weight);
   color: var(--primary);
   text-align: center;
-  box-shadow: inset 0 0 0 2px var(--primary);
   transition: var(--hover-transition);
+}
+
+.pb_outline-dark {
+  border: 1px solid #000 !important;
+  text-transform: uppercase;
+  color: black;
+  background: none;
+  transition: background-color 0.4s ease-out 100ms !important;
+  span {
+    color: black;
+    transition: color 0.4s ease-out 100ms !important;
+  }
+  &:hover {
+    background-color: #000 !important;
+    span {
+      color: #fff;
+    }
+  }
 }

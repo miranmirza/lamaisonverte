@@ -11,7 +11,7 @@ html {
 
 
 body {
-  font-family: var(--font-family);
+  font-family: var(--font-family) !important;
   font-size: var(--spacing-medium);
   line-height: var(--line-height);
   font-weight: var(--body-font-weight);
@@ -67,6 +67,12 @@ sup {
 
 .tangerine {
   font-family: 'Tangerine', cursive;
+}
+
+.pb_letter-spacing-2 {
+  letter-spacing: 0.2em !important;
+  font-weight: 300 !important;
+  color: #212529 !important;
 }
 
 /* Combine this class with a width to truncate text (or just leave as is to truncate at width of containing element. */
