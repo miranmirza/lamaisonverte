@@ -1,4 +1,22 @@
 ---
+values:
+  heading: Our values
+  text: Coffee is an amazing part of human culture but it has a dark side too –
+    one of colonialism and mindless abuse of natural resources and human lives.
+    We want to turn this around and return the coffee trade to the drink’s
+    exhilarating, empowering and unifying nature.
+products:
+  - image: img/illustrations-coffee.svg
+    text: We sell green and roasted coffee beans that are sourced directly from
+      independent farmers and farm cooperatives. We’re proud to offer a variety
+      of coffee beans grown with great care for the environment and local
+      communities. Check our post or contact us directly for current
+      availability.
+  - image: /img/illustrations-coffee-gear.svg
+    text: We offer a small, but carefully curated selection of brewing gear and
+      tools for every taste and experience level. No matter if you roast your
+      own beans or just bought your first french press, you’ll find a gadget to
+      fall in love with in our shop.
 title: La Maison Verte
 subtitle: Serving Amman's Finest French cuisine since 1992
 image: img/img_0006.jpeg
@@ -22,18 +40,6 @@ intro:
 
 
     For reservations [+962 6 5685746](tel:+96265685746)
-products:
-  - image: img/illustrations-coffee.svg
-    text: We sell green and roasted coffee beans that are sourced directly from
-      independent farmers and farm cooperatives. We’re proud to offer a variety
-      of coffee beans grown with great care for the environment and local
-      communities. Check our post or contact us directly for current
-      availability.
-  - image: /img/illustrations-coffee-gear.svg
-    text: We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
 menu:
   - heading: Main Courses
     id: main-courses
@@ -88,12 +94,6 @@ menu:
       **Chocolate dome flambé au Grand Marnier**
 
       **Panna cotta & passion fruit**
-values:
-  heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
 gallery:
   - imgSrc: img/623a4363e.jpg
     imgTitle: Main Dining Room
@@ -101,4 +101,14 @@ gallery:
     imgTitle: Lounge Area
   - imgSrc: img/img_0025.jpeg
     imgTitle: Lounge
+socials:
+  - title: Facebook
+    icon: fa-facebook
+    url: https://www.facebook.com/lamaisonvertejordan
+  - title: Instagram
+    icon: fa-instagram
+    url: https://www.instagram.com/lamaisonverterestaurant/
+  - title: Tripadvisor
+    url: https://www.tripadvisor.com/Restaurant_Review-g293986-d839334-Reviews-La_Maison_Verte-Amman_Amman_Governorate.html
+    icon: fa-tripadvisor
 ---
