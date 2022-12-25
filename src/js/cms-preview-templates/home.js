@@ -5,92 +5,74 @@ import ReactMarkdown from "react-markdown";
 import Jumbotron from "./components/jumbotron";
 import Menu from "./components/menu";
 
-export default class PostPreview extends React.Component {
+export default class HomePreview extends React.Component {
   render() {
-    const {entry, getAsset} = this.props;
+    const { entry, getAsset } = this.props;
     let image = getAsset(entry.getIn(["data", "image"]));
 
     // Bit of a nasty hack to make relative paths work as expected as a background image here
     if (image) {
-        let {path} = image;
-        path = path.split('static/').pop();
-        image = `${window.parent.location.protocol}//${window.parent.location.host}/${path}`;
+      let { path } = image;
+      path = path.split("static/").pop();
+      image = `${window.parent.location.protocol}//${window.parent.location.host}/${path}`;
     }
     return (
       <div>
+        <link
+          href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+          rel="stylesheet"
+        />
         <Jumbotron
           image={image}
           title={entry.getIn(["data", "title"])}
           subtitle={entry.getIn(["data", "subtitle"])}
         />
-
-        <div className="bg-off-white pv4">
-          <div className="ph3 mw7 center">
-            <h2 className="f2 b lh-title mb2">
+        <section class="bg-off-white px-4 py-5" id="about">
+          <div class="center">
+            <h2 class="mb-4 text-uppercase pb_letter-spacing-2">
               {entry.getIn(["data", "intro", "heading"])}
             </h2>
-            <ReactMarkdown>
-              {entry.getIn(["data", "intro", "text"])}
-            </ReactMarkdown>
+            <div class="intro-text">
+              <ReactMarkdown>
+                {entry.getIn(["data", "intro", "text"])}
+              </ReactMarkdown>
+            </div>
+          </div>
+        </section>
 
-            <Menu menu={entry.getIn(["data", "menu"])} />
+        <Menu menu={entry.getIn(["data", "menu"])} />
 
+        <section class="bg-off-white px-4 py-5" id="gallery">
+          <div class="center">
+            <h2 class="mb-4 text-uppercase pb_letter-spacing-2 text-center">
+              Gallery
+            </h2>
             <div className="flex-ns mhn2-ns mb3">
-              {(entry.getIn(["data", "products"]) || []).map((product, i) => (
+              {(entry.getIn(["data", "gallery"]) || []).map((product, i) => (
                 <div className="ph2-ns w-50-ns" key={i}>
                   <img
-                    src={getAsset(product.get("image"))}
+                    src={getAsset(product.get("imgSrc"))}
                     alt=""
                     className="center db mb3"
                     style={{ width: "240px" }}
                   />
-                  <p>{product.get("text")}</p>
                 </div>
               ))}
             </div>
-
-            <div className="tc">
-              <a href="#" className="btn raise">
-                See all products
-              </a>
-            </div>
           </div>
-        </div>
+        </section>
 
-        {/* <div className="bg-grey-1 pv4">
-          <div className="ph3 mw7 center">
-            <div className="flex-l mhn2-l">
-              <div className="w-40-l ph2-l">
-                <h2 className="f2 b lh-title mb2">
-                  {entry.getIn(["data", "values", "heading"])}
-                </h2>
-
-                <p>{entry.getIn(["data", "values", "text"])}</p>
-              </div>
-
-              <div className="w-60-l ph2-l">
-                <img src="/img/home-about-section.jpg" alt="" className="mb3" />
-              </div>
-            </div>
-
-            <div className="tc">
-              <a href="{{.buttonLink}}" className="btn raise">
-                Read more
-              </a>
-            </div>
-          </div>
-        </div> */}
-        <footer class="pb_footer bg-light">
-          <div class="container">
-            <div class="row text-center">
-              <ul class="list-inline">
+        <footer className="pb_footer bg-light">
+          <div className="container">
+            <div className="row text-center">
+              <ul className="list-inline">
                 {(entry.getIn(["data", "socials"]) || []).map((social, i) => (
-                  <li class="list-inline-item">
+                  <li className="list-inline-item" key={i}>
                     <a
                       target="_blank"
                       rel="noopener noreferrer"
                       href={social.get("url")}
-                      class="p-2"
+                      className="p-2"
                     >
                       <i className={`fa ${social.get("icon")}`}></i>
                     </a>
@@ -98,8 +80,11 @@ export default class PostPreview extends React.Component {
                 ))}
               </ul>
             </div>
-            <div class="row text-center">
-              <p>© Test. All Rights Reserved.</p>
+            <div className="row text-center">
+              <p>
+                © {format(new Date(), 'yyyy')}{" "}
+              {entry.getIn(["data", "title"])}. All Rights Reserved.
+              </p>
             </div>
           </div>
         </footer>
