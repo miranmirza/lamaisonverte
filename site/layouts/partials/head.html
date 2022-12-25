@@ -10,6 +10,8 @@
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+	<meta name="description" content="{{ .Site.Data.settings.description }}">
+	<meta name="keywords" content="{{ .Site.Data.settings.keywords }}">
 	<base href="{{ $.Site.BaseURL }}">
 
 	<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
@@ -25,9 +27,9 @@
 
 	<!-- Open Graph -->
 	<meta property="og:type" content="business.business">
-	<meta property="og:title" content="">
-	<meta property="og:url" content="/">
-	<meta property="og:image" content="">
+	<meta property="og:title" content="{{ .Title }}">
+	<meta property="og:url" content="{{ .Site.Data.settings.url }}">
+	<meta property="og:image" content="{{ .Site.Data.settings.og_image }}">
 
   {{ if .IsHome }}
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
