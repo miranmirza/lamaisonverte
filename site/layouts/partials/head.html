@@ -29,7 +29,7 @@
 	<meta property="og:type" content="business.business">
 	<meta property="og:title" content="{{ .Title }}">
 	<meta property="og:url" content="{{ .Site.Data.settings.url }}">
-	<meta property="og:image" content="{{ .Site.Data.settings.og_image }}">
+	<meta property="og:image" content="/{{ .Site.Data.settings.og_image }}">
 
   {{ if .IsHome }}
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
