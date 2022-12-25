@@ -62,6 +62,13 @@ sup {
   font-family: 'Tangerine', cursive;
 }
 
+.title {
+  font-size: 2.5rem;
+  @media(min-width: 767px) {
+    font-size: 6.5rem;
+  }
+}
+
 .pb_letter-spacing-2 {
   letter-spacing: 0.2em !important;
   font-weight: 300 !important;
