@@ -101,6 +101,8 @@ gallery:
     imgTitle: Lounge Area
   - imgSrc: img/img_0025.jpeg
     imgTitle: Lounge
+  - imgSrc: img/image9.jpg
+    imgTitle: Menu
   - imgSrc: img/IMG_0028.jpg
     imgTitle: Dining Room
   - imgTitle: Dining Room Tables
@@ -111,6 +113,8 @@ gallery:
     imgSrc: img/outside2.jpg
   - imgTitle: Terrasse
     imgSrc: img/outside.jpg
+  - imgTitle: Entrance
+    imgSrc: img/image4.jpg
 socials:
   - title: Facebook
     icon: fa-facebook
