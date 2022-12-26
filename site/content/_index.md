@@ -78,6 +78,84 @@ menu:
       Grilled tomatoes, sautéed spinach, and roasted potatoes
 
       **200g Entrecôte Café de Paris, French Fries**
+  - heading: Cold Starters
+    id: cold-starters
+    text: |-
+      **Garden Salad, Vinaigrette**
+
+
+      **Panzanella Salad, Feta Cheese**
+
+
+
+      **Mixed Salad, French Dressing**
+
+
+
+      **30g Russian Caviars & Blinis**
+
+
+
+      **Durade Ceviche**
+
+
+
+      **Smoked Salmon, Sauce Vierge**
+
+
+
+      **Endive Salad, Walnut Vinaigrette**
+
+
+
+      **Buffalo Mozzarella Caprese**
+
+
+
+      **Homemade Terrine of the week**
+
+
+
+      **Charcuterie Board**
+
+
+
+      **Beef Tartare**
+
+
+
+      **Yuzu Lemon Shrimps**
+  - heading: Hot Starters
+    id: hot-starters
+    text: |-
+      **Onion Soup or Soup of the Day**
+
+
+      **Duck Liver Escalope, Apple Purée**
+
+
+      **Roasted Bone Marrow, Guérande salt**
+
+
+      **Fried Calamari, Tartar sauce**
+
+
+      **Rigatoni al Caruso**
+
+
+      **Escargots à la bourguignonne**
+
+
+      **Make your own Sourdough Pizza**
+
+
+      **Eggplant Parmigiana**
+
+
+      **Ravioli Alla Fiorentina**
+
+
+      **Spaghetti alla Puttanesca**
   - heading: Desserts
     id: desserts
     text: |-
