@@ -101,6 +101,16 @@ gallery:
     imgTitle: Lounge Area
   - imgSrc: img/img_0025.jpeg
     imgTitle: Lounge
+  - imgSrc: img/IMG_0028.jpg
+    imgTitle: Dining Room
+  - imgTitle: Dining Room Tables
+    imgSrc: img/IMG_0091.jpg
+  - imgSrc: img/IMG_0016.jpg
+    imgTitle: Lounge art work
+  - imgTitle: Kitchen
+    imgSrc: img/outside2.jpg
+  - imgTitle: Terrasse
+    imgSrc: img/outside.jpg
 socials:
   - title: Facebook
     icon: fa-facebook
