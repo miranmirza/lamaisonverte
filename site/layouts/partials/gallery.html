@@ -1,4 +1,4 @@
-<section class="bg-off-white px-4 py-5" id="gallery">
+<!-- <section class="bg-off-white px-4 py-5" id="gallery">
     <div class="container center">
         <h2 class="mb-4 text-uppercase pb_letter-spacing-2 text-center">Gallery</h2>
         <div class="row">
@@ -9,5 +9,20 @@
             {{end}}
         </div>
 
+    </div>
+</section> -->
+
+<section class="bg-off-white px-4 py-5 gallery" id="gallery">
+    <div class="container center">
+        <h2 class="mb-4 text-uppercase pb_letter-spacing-2 text-center">Gallery</h2>
+        <ul>
+            {{ range $index, $element := .gallery }}
+            <li>
+                <a href="{{.imgSrc}}" data-toggle="lightbox" data-gallery="example-gallery" class="gallery-image">
+                    <img src="{{.imgSrc}}" class="img-fluid rounded-0" loading="lazy">
+                </a>
+            </li>
+            {{end}}
+        </ul>
     </div>
 </section>
