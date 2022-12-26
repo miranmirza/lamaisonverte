@@ -107,14 +107,14 @@ gallery:
     imgTitle: Dining Room
   - imgTitle: Dining Room Tables
     imgSrc: img/IMG_0091.jpg
+  - imgTitle: Entrance
+    imgSrc: img/image4.jpg
   - imgSrc: img/IMG_0016.jpg
     imgTitle: Lounge art work
   - imgTitle: Kitchen
     imgSrc: img/outside2.jpg
   - imgTitle: Terrasse
     imgSrc: img/outside.jpg
-  - imgTitle: Entrance
-    imgSrc: img/image4.jpg
 socials:
   - title: Facebook
     icon: fa-facebook
