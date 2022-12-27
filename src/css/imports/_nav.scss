@@ -161,7 +161,7 @@
           color: #000;
           &.active {
             // color: $primary-color;
-            font-weight: bolder;
+            font-weight: bolder !important;
           }
         }
       }
