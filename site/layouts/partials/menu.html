@@ -12,7 +12,7 @@
         </ul>
         <div class="tab-content" id="pills-tabContent">
             {{ range $index, $element := .menu }}
-            <div class="tab-pane fade food-menu {{ if not $index }}show active{{ end }}" id={{$element.id}}
+            <div class="tab-pane fade food-menu mt-5 {{ if not $index }}show active{{ end }}" id={{$element.id}}
                 role="tabpanel" aria-labelledby="pills-contact-tab">
                 <div class="flex flex-wrap justify-content-between">
                     {{$element.text | markdownify}}
