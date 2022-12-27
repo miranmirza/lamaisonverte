@@ -18,7 +18,7 @@ products:
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
 title: La Maison Verte
-subtitle: Serving Amman's Finest French cuisine since 1992
+subtitle: Serving Amman's finest French cuisine since 1992
 image: img/img_0006.jpeg
 intro:
   heading: Founded in 1992
