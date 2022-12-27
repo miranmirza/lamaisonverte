@@ -39,25 +39,18 @@ export default class HomePreview extends React.Component {
         </section>
 
         <Menu menu={entry.getIn(["data", "menu"])} />
-
-        <section class="bg-off-white px-4 py-5" id="gallery">
-          <div class="center">
-            <h2 class="mb-4 text-uppercase pb_letter-spacing-2 text-center">
-              Gallery
-            </h2>
-            <div className="flex-ns mhn2-ns mb3">
-              {(entry.getIn(["data", "gallery"]) || []).map((product, i) => (
-                <div className="ph2-ns w-50-ns" key={i}>
-                  <img
-                    src={getAsset(product.get("imgSrc"))}
-                    alt=""
-                    className="center db mb3"
-                    style={{ width: "240px" }}
-                  />
-                </div>
-              ))}
+ 
+        <section class="bg-off-white px-4 py-5 gallery" id="gallery">
+            <div class="container center">
+                <h2 class="mb-4 text-uppercase pb_letter-spacing-2 text-center">Gallery</h2>
+                <ul>
+                    {(entry.getIn(["data", "gallery"]) || []).map((product, i) => (
+                    <li>
+                        <img src={getAsset(product.get("imgSrc"))} class="img-fluid rounded-0" loading="lazy" />
+                    </li>
+                    ))}
+                </ul>
             </div>
-          </div>
         </section>
 
         <footer className="pb_footer bg-light">

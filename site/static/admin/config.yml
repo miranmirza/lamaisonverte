@@ -20,7 +20,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Open Graph Image", name: "og_image", widget: "image"}
           # - {label: "Google Tag Manager ID", name: "gtm_id", widget: "text", required: false}
   - name: "pages"
-    label: "Sections"
+    label: "Pages"
     files:
       - file: "site/content/_index.md"
         label: "Home Page"
@@ -33,13 +33,13 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "markdown"}]}
           - {label: "Menu Sections", name: menu, widget: list, fields: [
-              {label: "Heading", name: "heading", widget: "text"},
-              {label: "ID", name: "id", widget: "text", required: true},
+              {label: "Heading", name: "heading", widget: "string"},
+              {label: "ID", name: "id", widget: "string", required: true, hint: "This must be unique"},
               {label: "Text", name: "text", widget: "markdown"}]}
           - {label: "Pictures", name: "gallery", widget: "list", fields: [
               {label: "Title", name: "imgTitle", widget: "string"},
               {label: "Image", name: "imgSrc", widget: "image"}]}
           - {label: "Social Media Links", name: "socials", widget: "list", fields: [
               {label: "Title", name: "title", widget: "string"},
-              {label: "Icon", name: "icon", widget: "string"},
+              {label: "Icon", name: "icon", widget: "string", hint: "You can find icon names at https://forkaweso.me/Fork-Awesome/icons/"},
               {label: "Link", name: "url", widget: "string"}]}
