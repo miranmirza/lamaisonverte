@@ -4,8 +4,17 @@
 		<div class="row text-center">
 			<ul class="list-inline">
 				{{ range $index, $element := .socials }}
-					<li class="list-inline-item"><a target="_blank" rel="noopener noreferrer"
-							href="{{$element.url}}" class="p-2"><i class="fa {{$element.icon}}"></i></a></li>
+					<li class="list-inline-item">
+						<a
+							target="_blank"
+							rel="noopener noreferrer"
+							href="{{$element.url}}" 
+							class="p-2"
+						>
+							<i class="fa {{$element.icon}}"></i>
+							<span class="sr-only">{{$element.title}}</span>
+						</a>
+					</li>
 				{{end}}
             </ul>
 		</div>

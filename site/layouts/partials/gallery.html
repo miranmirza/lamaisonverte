@@ -5,7 +5,7 @@
             {{ range $index, $element := .gallery }}
             <li>
                 <a href="{{.imgSrc}}" data-toggle="lightbox" data-gallery="example-gallery" class="gallery-image">
-                    <img src="{{.imgSrc}}" class="img-fluid rounded-0" loading="lazy">
+                    <img src="{{.imgSrc}}" class="img-fluid rounded-0" loading="lazy" alt="{{.imgTitle}}">
                 </a>
             </li>
             {{end}}

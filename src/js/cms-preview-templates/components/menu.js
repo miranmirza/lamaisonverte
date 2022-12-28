@@ -47,7 +47,7 @@ const Menu = ({menu}) => {
               id={item.get("id")}
               key={i}
               role="tabpanel"
-              aria-labelledby="pills-contact-tab"
+              aria-labelledby="pills-tab"
             >
               <div className="flex flex-wrap justify-content-between">
                 <ReactMarkdown>{item.get("text")}</ReactMarkdown>
