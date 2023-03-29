@@ -44,134 +44,88 @@ menu:
   - heading: Main Courses
     id: main-courses
     text: |-
-      **Seared Jumbo Shrimps, Glazed Vegetables**
-
-
-      **Grilled Salmon**
-      Bed of leek fondue, nolly prat sauce
+      **Grilled Salmon, Spinach, Shiitake Mushrooms**
+      Potato Pavé, Noilly Prat
 
       **Pan Seared Seabass Fillet, Sauce Vierge**
-      Sautéed vegetables and Parsley Potatoes
+      Pomme Purée, Seasonal Vegetables
+
+      **Dover Sole Meuniere**
+      Upon Availability
+
+      **Roasted Chicken, Truffle Jus**
+      Pomme Purée, Seasonal Vegetables
+
+      **Breaded Veal Cotelette**
+      French Fries, Arugula, Tomato
+
+      **Veal Emincé, Morel Sauce**
+      Roesti potato
+
+      **220g Fillet of Beef à la Bordelaise**
+      Potato pavé, Seasonal Vegetables
+
+      **300g Ribeye, Perigourdine Sauce**
+      Sweet Potato, Braised Red Cabbage
+
+      **220g Steak Frites, Café de Paris**
+      Seasonal Vegetables
+
+      **Braised Lamb Shank**
+      Sweet Potato, Seasonal Vegetables
 
       **Grilled Chicken Breast, Lime Sauce**
-      Roasted potatoes and glazed vegetables
-
-      **Duck Magret, Honey Balsamic sauce**
-      Mashed Potatoes
-
-      **Local Lamb Abbacchio**
-      Glazed vegetables and Parsley Potatoes
-
-      **Escalope alla Milanese**
-      Homemade French Fries and Tomato Salad
-
-      **Grass Fed Veal and Carrot Stew, Parmesan Risotto**
-
-
-      **Scaloppines Al Limone or Marsala, Tagliatelle**
-
-
-      **200g Beef Steak, Porcini Sauce**
-      Potato Gratin and seasonal vegetables
-
-      **250g Grilled Ribeye, Bearnaise Sauce**
-      Grilled tomatoes, sautéed spinach, and roasted potatoes
-
-      **200g Entrecôte Café de Paris, French Fries**
+      Roasted potatoes and glazed vege
   - heading: Cold Starters
     id: cold-starters
     text: |-
-      **Garden Salad, Vinaigrette**
+      **Charred Baby Gem Salad, Black Garlic Aioli**
 
+      **Seasonal Salad, House Dressing**
 
-      **Panzanella Salad, Feta Cheese**
+      **E﻿ndives Salad, Candied Walnuts, Blue Cheese**
 
+      **B﻿urrata, Beefheart Tomato, Basil Oil**
 
+      **Beef Carpaccio, Enoki Mushrooms**
 
-      **Mixed Salad, French Dressing**
+      **Foie Gras Mousse Eclair**
 
+      **25g Sturgeon Caviar, Blinis**
 
+      **Poached Shrimps, Citrus Ponzu**
 
-      **30g Russian Caviars & Blinis**
-
-
-
-      **Durade Ceviche**
-
-
-
-      **Smoked Salmon, Sauce Vierge**
-
-
-
-      **Endive Salad, Walnut Vinaigrette**
-
-
-
-      **Buffalo Mozzarella Caprese**
-
-
-
-      **Homemade Terrine of the week**
-
-
-
-      **Charcuterie Board**
-
-
-
-      **Beef Tartare**
-
-
-
-      **Yuzu Lemon Shrimps**
+      **Scottish Smoked Salmon, Lemon Confit**
   - heading: Hot Starters
     id: hot-starters
     text: |-
       **Onion Soup or Soup of the Day**
 
+      **Seared Foie Gras, Port Wine**
 
-      **Duck Liver Escalope, Apple Purée**
+      **Escargots à la Bourguignonne**
 
+      **S﻿ea Scallop Croquettes, Potato Leak, Salmon Roe**
 
-      **Roasted Bone Marrow, Guérande salt**
+      **Spicy Shrimps, Anise Bisque**
 
+      **M﻿ushroom Vol-au-vent**
 
-      **Fried Calamari, Tartar sauce**
-
-
-      **Rigatoni al Caruso**
-
-
-      **Escargots à la bourguignonne**
-
-
-      **Make your own Sourdough Pizza**
-
-
-      **Eggplant Parmigiana**
-
-
-      **Ravioli Alla Fiorentina**
-
-
-      **Spaghetti alla Puttanesca**
+      **S﻿pinach and Ricotta Ravioles**
   - heading: Desserts
     id: desserts
     text: |-
-      **Café Gourmand**
+      **Crème Brulée**
 
-      **Crème Brulée à la vanille**
+      **Fondant au Chocolat**
 
-      **Chocolate Fondant**
+      **Profiteroles, Chocolate Sauce, Roasted Almonds**
 
-      **Profiteroles**
+      **Pain Perdu, Strawberry, Strussel Crunch**
 
-      **Pain Perdu, strawberry mint coulis, salted caramel**
+      **B﻿aked Alaska Flambé**
 
-      **Chocolate dome flambé au Grand Marnier**
-
-      **Panna cotta & passion fruit**
+      **W﻿arm Apple Pie, Vanilla Ice Cream**
 gallery:
   - imgSrc: img/623a4363e.jpg
     imgTitle: Main Dining Room
