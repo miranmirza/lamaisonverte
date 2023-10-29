@@ -41,6 +41,46 @@ intro:
 
     For reservations [+962 6 5685746](tel:+96265685746)
 menu:
+  - heading: Cold Starters
+    id: cold-starters
+    text: |-
+      **Charred Baby Gem Salad, Black Garlic Aioli**
+
+      **LMV Salad Bowl**
+
+      **Green Beans Salad**
+
+      **E﻿ndives Salad, Candied Walnuts, Blue Cheese**
+
+      **B﻿urrata, Beefheart Tomato, Basil Oil**
+
+      **Cecine de Leon, Rocket & Condiments**
+
+      **Select Caviar, Blinis & Condiments**
+
+      **Shrimps Caviar, Citrus Calypso**
+
+      **Wild Smoked Salmon, Sauce Vièrge**
+  - heading: Hot Starters
+    id: hot-starters
+    text: |-
+      **French Onion Soup**
+
+      **Cream of Tomato Soup**
+
+      **Seared Foie Gras, Port Wine**
+
+      **Escargots à la Bourguignonne**
+
+      **Warm Shrimps, Lemon Leaf**
+
+      **Shrimps Saganaki, Spicy Bisque**
+
+      **M﻿ushroom Vol-au-vent**
+
+      **Pappardelle alla Caprese**
+
+      **LMV Signature Spaghetti**
   - heading: Main Courses
     id: main-courses
     text: |-
@@ -53,65 +93,29 @@ menu:
       **Dover Sole Meuniere**
       Upon Availability
 
-      **Roasted Chicken, Truffle Jus**
-      Pomme Purée, Seasonal Vegetables
+      **Roasted Chicken, Lemon Confit**
+      Pomme Frites
 
-      **Breaded Veal Cotelette**
+      **Rock Lobster Gratinée à la Bourguignonne**
       French Fries, Arugula, Tomato
 
       **Veal Emincé, Morel Sauce**
-      Roesti potato
+      LMV Rice, Carrots Vichy
 
-      **220g Fillet of Beef à la Bordelaise**
-      Potato pavé, Seasonal Vegetables
+      **Veal Medallions, Mustard Sauce**
+      Potato pavé, Sautéed Vegetables
 
-      **300g Ribeye, Perigourdine Sauce**
-      Sweet Potato, Braised Red Cabbage
+      **220g Pepper Fillet of Beef Mignonette**
+      Pommes Frites
 
       **220g Steak Frites, Café de Paris**
       Seasonal Vegetables
 
-      **Braised Lamb Shank**
-      Sweet Potato, Seasonal Vegetables
+      **280g Grilled Lamb Chops**
+      Gratin Dauphinois, Seasonal Vegetables
 
-      **Grilled Chicken Breast, Lime Sauce**
-      Roasted potatoes and glazed vege
-  - heading: Cold Starters
-    id: cold-starters
-    text: |-
-      **Charred Baby Gem Salad, Black Garlic Aioli**
-
-      **Seasonal Salad, House Dressing**
-
-      **E﻿ndives Salad, Candied Walnuts, Blue Cheese**
-
-      **B﻿urrata, Beefheart Tomato, Basil Oil**
-
-      **Beef Carpaccio, Enoki Mushrooms**
-
-      **Foie Gras Mousse Eclair**
-
-      **25g Sturgeon Caviar, Blinis**
-
-      **Poached Shrimps, Citrus Ponzu**
-
-      **Scottish Smoked Salmon, Lemon Confit**
-  - heading: Hot Starters
-    id: hot-starters
-    text: |-
-      **Onion Soup or Soup of the Day**
-
-      **Seared Foie Gras, Port Wine**
-
-      **Escargots à la Bourguignonne**
-
-      **S﻿ea Scallop Croquettes, Potato Leak, Salmon Roe**
-
-      **Spicy Shrimps, Anise Bisque**
-
-      **M﻿ushroom Vol-au-vent**
-
-      **S﻿pinach and Ricotta Ravioles**
+      **Chargrilled Côte de Boeuf**
+      Pommes Frites, Seasonal Vegetables
   - heading: Desserts
     id: desserts
     text: |-
@@ -122,10 +126,6 @@ menu:
       **Profiteroles, Chocolate Sauce, Roasted Almonds**
 
       **Pain Perdu, Strawberry, Strussel Crunch**
-
-      **B﻿aked Alaska Flambé**
-
-      **W﻿arm Apple Pie, Vanilla Ice Cream**
 gallery:
   - imgSrc: img/623a4363e.jpg
     imgTitle: Main Dining Room
