@@ -60,7 +60,7 @@ menu:
 
       **Select Caviar, Blinis & Condiments**
 
-      **Shrimps Cocktail , Citrus Calypso**
+      **Shrimps Cocktail, Citrus Calypso**
 
       **Wild Smoked Salmon, Sauce Vièrge**
   - heading: Hot Starters
