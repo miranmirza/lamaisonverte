@@ -54,11 +54,13 @@ menu:
 
       **B﻿urrata, Beefheart Tomato, Basil Oil**
 
+      **L﻿obster Salad**
+
       **Cecine de Leon, Rocket & Condiments**
 
       **Select Caviar, Blinis & Condiments**
 
-      **Shrimps Caviar, Citrus Calypso**
+      **Shrimps Cocktail , Citrus Calypso**
 
       **Wild Smoked Salmon, Sauce Vièrge**
   - heading: Hot Starters
@@ -97,13 +99,13 @@ menu:
       Pomme Frites
 
       **Rock Lobster Gratinée à la Bourguignonne**
-      French Fries, Arugula, Tomato
+      Pomme Purée
 
       **Veal Emincé, Morel Sauce**
       LMV Rice, Carrots Vichy
 
       **Veal Medallions, Mustard Sauce**
-      Potato pavé, Sautéed Vegetables
+      Potato Pavé, Sautéed Vegetables
 
       **220g Pepper Fillet of Beef Mignonette**
       Pommes Frites
