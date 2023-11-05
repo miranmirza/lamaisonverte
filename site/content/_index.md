@@ -56,7 +56,7 @@ menu:
 
       **L﻿obster Salad**
 
-      **Cecine de Leon, Rocket & Condiments**
+      **Chicken Rillette, Toasted Baguette & Condiments**
 
       **Select Caviar, Blinis & Condiments**
 
