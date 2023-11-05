@@ -25,10 +25,9 @@ intro:
   text: >-
     La Maison Verte is a multi award winning French restaurant famously known
     for its Steak Frites with Café de Paris sauce, various steaks and seafood.
-    La Maison Verte is the place to be for experiencing the exquisite taste of
-    French cuisine in an elegant and ambient atmosphere.
-
-
+    La Maison Verte offers a sublime experience where you can savor the
+    delightful flavors of French cuisine in a sophisticated and enchanting
+    setting.
 
 
     **Hours of Operation**
@@ -123,11 +122,13 @@ menu:
     text: |-
       **Crème Brulée**
 
-      **Fondant au Chocolat**
+      **Fondant au Chocolat, Vanilla Ice Cream**
 
       **Profiteroles, Chocolate Sauce, Roasted Almonds**
 
-      **Pain Perdu, Strawberry, Strussel Crunch**
+      **Pain Perdu, Strawberry, Strussel Crunch, Vanilla Ice Cream**
+
+      **W﻿arm Almond Raisin Tart, Vanilla Ice Cream**
 gallery:
   - imgSrc: img/623a4363e.jpg
     imgTitle: Main Dining Room
