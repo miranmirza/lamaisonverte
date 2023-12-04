@@ -47,19 +47,23 @@ menu:
 
       **LMV Salad Bowl**
 
-      **Green Beans Salad**
-
       **E﻿ndives Salad, Candied Walnuts, Blue Cheese**
 
       **B﻿urrata, Beefheart Tomato, Basil Oil**
+
+      **Artichoke Salad** 
 
       **L﻿obster Salad**
 
       **Chicken Rillette, Toasted Baguette & Condiments**
 
+      **Bresaola, Condiments**
+
       **Select Caviar, Blinis & Condiments**
 
       **Shrimps Cocktail, Citrus Calypso**
+
+      **Tuna tartare**
 
       **Wild Smoked Salmon, Sauce Vièrge**
   - heading: Hot Starters
@@ -72,6 +76,8 @@ menu:
       **Seared Foie Gras, Port Wine**
 
       **Escargots à la Bourguignonne**
+
+      **LMV Baked Halloumi**
 
       **Warm Shrimps, Lemon Leaf**
 
@@ -114,9 +120,6 @@ menu:
 
       **280g Grilled Lamb Chops**
       Gratin Dauphinois, Seasonal Vegetables
-
-      **Chargrilled Côte de Boeuf**
-      Pommes Frites, Seasonal Vegetables
   - heading: Desserts
     id: desserts
     text: |-
@@ -129,6 +132,8 @@ menu:
       **Pain Perdu, Strawberry, Strussel Crunch, Vanilla Ice Cream**
 
       **W﻿arm Almond Raisin Tart, Vanilla Ice Cream**
+
+      **Salted Caramel Baked Cheesecake**
 gallery:
   - imgSrc: img/623a4363e.jpg
     imgTitle: Main Dining Room
