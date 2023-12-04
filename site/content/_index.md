@@ -109,6 +109,9 @@ menu:
       **Veal Emincé, Morel Sauce**
       LMV Rice, Carrots Vichy
 
+      **LMV Cheese Burger**
+      Charred Chili, Pommes Frites
+
       **Veal Medallions, Mustard Sauce**
       Potato Pavé, Sautéed Vegetables
 
