@@ -53,8 +53,6 @@ menu:
 
       **Artichoke Salad** 
 
-      **L﻿obster Salad**
-
       **Chicken Rillette, Toasted Baguette & Condiments**
 
       **Bresaola, Condiments**
@@ -77,15 +75,11 @@ menu:
 
       **Escargots à la Bourguignonne**
 
-      **LMV Baked Halloumi**
-
       **Warm Shrimps, Lemon Leaf**
 
-      **Shrimps Saganaki, Spicy Bisque**
+      **M﻿ushroom Vol-au-Vent**
 
-      **M﻿ushroom Vol-au-vent**
-
-      **Pappardelle alla Caprese**
+      **Saganaki Pasta, Shrimps,** **Spicy Bisque**
 
       **LMV Signature Spaghetti**
   - heading: Main Courses
