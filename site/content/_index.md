@@ -82,6 +82,8 @@ menu:
       **Saganaki Pasta, Shrimps,** **Spicy Bisque**
 
       **LMV Signature Spaghetti**
+
+      **Moules à la Marinières**
   - heading: Main Courses
     id: main-courses
     text: |-
