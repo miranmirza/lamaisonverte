@@ -55,7 +55,7 @@ menu:
 
       **Chicken Rillette, Toasted Baguette & Condiments**
 
-      **Bresaola, Condiments**
+      **Beef Tartare, Toasted Baguette**
 
       **Select Caviar, Blinis & Condiments**
 
@@ -100,10 +100,12 @@ menu:
       Pomme Frites
 
       **Rock Lobster Gratinée à la Bourguignonne**
-      Pomme Purée
 
       **Veal Emincé, Morel Sauce**
-      LMV Rice, Carrots Vichy
+      Röesti Potato, Sautéed Vegetables
+
+      **LMV Breaded Veal Escalope**
+      Tomato Salad, Pommes Frites
 
       **LMV Cheese Burger**
       Charred Chili, Pommes Frites
