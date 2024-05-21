@@ -55,6 +55,8 @@ menu:
 
       **Chicken Rillette, Toasted Baguette & Condiments**
 
+      **B﻿eef Carpaccio** 
+
       **Beef Tartare, Toasted Baguette**
 
       **Select Caviar, Blinis & Condiments**
@@ -71,7 +73,7 @@ menu:
 
       **Cream of Tomato Soup**
 
-      **Seared Foie Gras, Port Wine**
+      **Duo Foie Gras**
 
       **Escargots à la Bourguignonne**
 
@@ -83,7 +85,9 @@ menu:
 
       **LMV Signature Spaghetti**
 
-      **Moules à la Marinières**
+      **Aubergine à la Levantine**
+
+      **F﻿ried Baby Calamari**
   - heading: Main Courses
     id: main-courses
     text: |-
@@ -101,8 +105,8 @@ menu:
 
       **Rock Lobster Gratinée à la Bourguignonne**
 
-      **Veal Emincé, Morel Sauce**
-      Röesti Potato, Sautéed Vegetables
+      **Chicken Breast, Morel Sauce** 
+      Potato Pavé, Sautéed Vegetables
 
       **LMV Breaded Veal Escalope**
       Tomato Salad, Pommes Frites
@@ -115,6 +119,9 @@ menu:
 
       **220g Pepper Fillet of Beef Mignonette**
       Pommes Frites
+
+      **250g LMV Special Beef Cut**
+      Gratin Dauphinois, Vine Tomato & Green Beans
 
       **220g Steak Frites, Café de Paris**
       Seasonal Vegetables
@@ -132,9 +139,9 @@ menu:
 
       **Pain Perdu, Strawberry, Strussel Crunch, Vanilla Ice Cream**
 
-      **W﻿arm Almond Raisin Tart, Vanilla Ice Cream**
-
       **Salted Caramel Baked Cheesecake**
+
+      **I﻿ce Cream & Sorbet**
 gallery:
   - imgSrc: img/623a4363e.jpg
     imgTitle: Main Dining Room
