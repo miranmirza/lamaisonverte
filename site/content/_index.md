@@ -81,13 +81,13 @@ menu:
 
       **M﻿ushroom Vol-au-Vent**
 
-      **Saganaki Pasta, Shrimps,** **Spicy Bisque**
+      **Spicy Saganaki Shrimps**
 
-      **LMV Signature Spaghetti**
+      **LMV Signature Linguine**
 
       **Aubergine à la Levantine**
 
-      **F﻿ried Baby Calamari**
+      **Chicken Ailerons, Parsley Reduction, Garlic Cream**
   - heading: Main Courses
     id: main-courses
     text: |-
