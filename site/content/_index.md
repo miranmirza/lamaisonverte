@@ -105,11 +105,14 @@ menu:
 
       **Rock Lobster Gratinée à la Bourguignonne**
 
-      **Chicken Breast, Morel Sauce** 
-      Potato Pavé, Sautéed Vegetables
+      **Chicken Breast, Spicy Café de Paris Sauce** 
+      Pomme Frites, Sautéed Vegetables
 
       **LMV Breaded Veal Escalope**
       Tomato Salad, Pommes Frites
+
+      **Emincé de Veau, Morel Sauce**
+      Pilaf Rice or Roesti Potato
 
       **LMV Cheese Burger**
       Charred Chili, Pommes Frites
@@ -136,6 +139,8 @@ menu:
       **Fondant au Chocolat, Vanilla Ice Cream**
 
       **Profiteroles, Chocolate Sauce, Roasted Almonds**
+
+      **Lemon Tart, Mascarpone Cream**
 
       **Pain Perdu, Strawberry, Strussel Crunch, Vanilla Ice Cream**
 
