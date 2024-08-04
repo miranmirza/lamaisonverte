@@ -123,14 +123,11 @@ menu:
       **220g Pepper Fillet of Beef Mignonette**
       Pommes Frites
 
-      **250g LMV Special Beef Cut**
-      Gratin Dauphinois, Vine Tomato & Green Beans
-
       **220g Steak Frites, Café de Paris**
       Seasonal Vegetables
 
-      **280g Grilled Lamb Chops**
-      Gratin Dauphinois, Seasonal Vegetables
+      **Lamb Abbacchio** 
+      Leg of Lamb braised 7h at Low Temperature
   - heading: Desserts
     id: desserts
     text: |-
