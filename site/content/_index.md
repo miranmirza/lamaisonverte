@@ -137,11 +137,9 @@ menu:
 
       **Profiteroles, Chocolate Sauce, Roasted Almonds**
 
-      **Lemon Tart, Mascarpone Cream**
+      **Pain Perdu, Salted Caramel Sauce, Vanilla Ice Cream**
 
-      **Pain Perdu, Strawberry, Strussel Crunch, Vanilla Ice Cream**
-
-      **Salted Caramel Baked Cheesecake**
+      **C﻿rêpes Suzette, Flambées au Grand Marnier, Vanilla Ice Cream**
 
       **I﻿ce Cream & Sorbet**
 gallery:
