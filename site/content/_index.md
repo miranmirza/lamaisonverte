@@ -43,7 +43,7 @@ menu:
   - heading: Cold Starters
     id: cold-starters
     text: |-
-      **Charred Baby Gem Salad, Black Garlic Aioli**
+      **Baby Gem Salad**
 
       **LMV Salad Bowl**
 
@@ -51,21 +51,17 @@ menu:
 
       **B﻿urrata, Beefheart Tomato, Basil Oil**
 
-      **Artichoke Salad** 
-
-      **Chicken Rillette, Toasted Baguette & Condiments**
+      **Mixed Salad** 
 
       **B﻿eef Carpaccio** 
 
-      **Beef Tartare, Toasted Baguette**
+      **Select Caviar & Condiments**
 
-      **Select Caviar, Blinis & Condiments**
-
-      **Shrimps Cocktail, Citrus Calypso**
+      **Shrimps & Avocado Cocktail**
 
       **Tuna tartare**
 
-      **Wild Smoked Salmon, Sauce Vièrge**
+      **Scottish Smoked Salmon, Sauce Vièrge**
   - heading: Hot Starters
     id: hot-starters
     text: |-
@@ -73,7 +69,7 @@ menu:
 
       **Cream of Tomato Soup**
 
-      **Duo Foie Gras**
+      **100g Escalope de Foie Gras**
 
       **Escargots à la Bourguignonne**
 
@@ -81,13 +77,11 @@ menu:
 
       **M﻿ushroom Vol-au-Vent**
 
-      **Spicy Saganaki Shrimps**
+      **Prawns al Ajillo**
 
       **LMV Signature Linguine**
 
       **Aubergine à la Levantine**
-
-      **Chicken Ailerons, Parsley Reduction, Garlic Cream**
   - heading: Main Courses
     id: main-courses
     text: |-
@@ -95,18 +89,15 @@ menu:
       Potato Pavé, Noilly Prat
 
       **Pan Seared Seabass Fillet, Sauce Vierge**
-      Pomme Purée, Seasonal Vegetables
+      Pomme Purée, Sautéed Vegetables
 
       **Dover Sole Meuniere**
       Upon Availability
 
-      **Roasted Chicken, Lemon Confit**
+      **Roasted Baby Chicken, Lemon Confit**
       Pomme Frites
 
       **Rock Lobster Gratinée à la Bourguignonne**
-
-      **Chicken Breast, Spicy Café de Paris Sauce** 
-      Pomme Frites, Sautéed Vegetables
 
       **LMV Breaded Veal Escalope**
       Tomato Salad, Pommes Frites
@@ -114,20 +105,17 @@ menu:
       **Emincé de Veau, Morel Sauce**
       Pilaf Rice or Roesti Potato
 
-      **LMV Cheese Burger**
-      Charred Chili, Pommes Frites
+      **Char Grilled Prime Angus Beef Sirloin**
+      Pommes Allumettes, Carottes Vichy, Bordelaise Sauce 
 
-      **Veal Medallions, Mustard Sauce**
-      Potato Pavé, Sautéed Vegetables
-
-      **220g Pepper Fillet of Beef Mignonette**
-      Pommes Frites
+      **180g US Angus Beef Tenderloin, Mignonette Pepper Sauce**
+      Pommes Allumettes, Sautéed Vegetables
 
       **220g Steak Frites, Café de Paris**
       Seasonal Vegetables
 
-      **Lamb Abbacchio** 
-      Leg of Lamb braised 7h at Low Temperature
+      **Grilled Lamb Chops** 
+      Gratin Dauphinois, Green Beens, Roasted Tomatoes
   - heading: Desserts
     id: desserts
     text: |-
