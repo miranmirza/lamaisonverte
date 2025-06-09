@@ -24,10 +24,9 @@ intro:
   heading: Founded in 1992
   text: >-
     La Maison Verte is a multi award winning French restaurant famously known
-    for its Steak Frites with Café de Paris sauce, various steaks and seafood.
-    La Maison Verte offers a sublime experience where you can savor the
-    delightful flavors of French cuisine in a sophisticated and enchanting
-    setting.
+    for its Steak Frites, various steaks and seafood. La Maison Verte offers a
+    sublime experience where you can savor the delightful flavors of French
+    cuisine in a sophisticated and enchanting setting.
 
 
     **Hours of Operation**
@@ -35,7 +34,7 @@ intro:
     Daily (1:00PM – 12:00AM midnight)
 
 
-    *Also, open for Group Reservation: 10 person minimum*
+    *Also, open for Group Reservation*
 
 
     For reservations [+962 6 5685746](tel:+96265685746)
@@ -43,91 +42,73 @@ menu:
   - heading: Cold Starters
     id: cold-starters
     text: |-
-      **Baby Gem Salad**
+      **Baby Gem & Celery**
 
-      **LMV Salad Bowl**
+      **LMV Salad** 
 
       **E﻿ndives Salad, Candied Walnuts, Blue Cheese**
 
       **B﻿urrata, Beefheart Tomato, Basil Oil**
 
-      **Mixed Salad** 
+      **Smoked Eggplant Gazpacho** 
 
-      **B﻿eef Carpaccio** 
+      **Smoked B﻿eef Carpaccio** 
 
       **Select Caviar & Condiments**
 
       **Shrimps & Avocado Cocktail**
 
-      **Tuna tartare**
-
-      **Scottish Smoked Salmon, Sauce Vièrge**
+      **Scottish Smoked Salmon**
   - heading: Hot Starters
     id: hot-starters
     text: |-
       **French Onion Soup**
 
-      **Cream of Tomato Soup**
-
-      **100g Escalope de Foie Gras**
+      **100g Escalope de Foie Gras, Porto Reduction**
 
       **Escargots à la Bourguignonne**
 
-      **Warm Shrimps, Lemon Leaf**
-
       **M﻿ushroom Vol-au-Vent**
 
-      **Prawns al Ajillo**
+      **Crispy Calamari & Shrimps, Sauce Tartar**
 
-      **LMV Signature Linguine**
-
-      **Aubergine à la Levantine**
+      **LMV Signature Spaghetti, Sauce Tomate**
   - heading: Main Courses
     id: main-courses
     text: |-
-      **Grilled Salmon, Spinach, Shiitake Mushrooms**
-      Potato Pavé, Noilly Prat
+      **Pan Seared Salmon**
+      Noilly Prat, Pomme Purée, Sautéed Vegetables
 
-      **Pan Seared Seabass Fillet, Sauce Vierge**
+      **500g Char Grilled Seabass**
+      Grilled Cherry Tomatoes
+
+      **Dover Sole Meunière**
+      Lemon Beurre Noisette - Upon Availability
+
+      **Free Range Chicken Breast**
+      Chanterelle Sauce, Truffle Pomme Purée
+
+      **Grilled Veal Paillard**
+      Girolles Mushrooms, Sautéed Vegetables
+
+      **180g Grilled Prime Beef Tenderloin**
+      Morel Sauce, Gratin Dauphinois, Grilled Asparagus & Cherry Tomatoes
+
+      **200g Slow Cooked Beef Short Rib**
+      Port Wine Sauce, Carrot & Peas Purée, Onion Confit 
+
+      **Lamb Carré**
       Pomme Purée, Sautéed Vegetables
-
-      **Dover Sole Meuniere**
-      Upon Availability
-
-      **Roasted Baby Chicken, Lemon Confit**
-      Pomme Frites
-
-      **Rock Lobster Gratinée à la Bourguignonne**
-
-      **LMV Breaded Veal Escalope**
-      Tomato Salad, Pommes Frites
-
-      **Emincé de Veau, Morel Sauce**
-      Pilaf Rice or Roesti Potato
-
-      **Char Grilled Prime Angus Beef Sirloin**
-      Pommes Allumettes, Carottes Vichy, Bordelaise Sauce 
-
-      **180g US Angus Beef Tenderloin, Mignonette Pepper Sauce**
-      Pommes Allumettes, Sautéed Vegetables
-
-      **220g Steak Frites, Café de Paris**
-      Seasonal Vegetables
-
-      **Grilled Lamb Chops** 
-      Gratin Dauphinois, Green Beens, Roasted Tomatoes
   - heading: Desserts
     id: desserts
     text: |-
       **Crème Brulée**
 
-      **Fondant au Chocolat, Vanilla Ice Cream**
+      **Chocolate Duchesse** 
 
-      **Profiteroles, Chocolate Sauce, Roasted Almonds**
+      **Profiteroles, Chocolate Sauce**
 
-      **Pain Perdu, Salted Caramel Sauce, Vanilla Ice Cream**
-
-      **C﻿rêpes Suzette, Flambées au Grand Marnier, Vanilla Ice Cream**
+      **LMV Orange Meringe Cake**
 
       **I﻿ce Cream & Sorbet**
 gallery:
