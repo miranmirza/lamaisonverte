@@ -31,7 +31,10 @@ intro:
 
     **Hours of Operation**
 
-    Daily (1:00PM – 12:00AM midnight)
+    MONDAY - SATURDAY (1:30PM – 12:00AM midnight)
+
+
+    C﻿LOSED ON SUNDAY
 
 
     *Also, open for Group Reservation*
