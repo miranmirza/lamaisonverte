@@ -24,9 +24,9 @@ intro:
   heading: Founded in 1992
   text: >-
     La Maison Verte is a multi award winning French restaurant famously known
-    for its Steak Frites, various steaks and seafood. La Maison Verte offers a
-    sublime experience where you can savor the delightful flavors of French
-    cuisine in a sophisticated and enchanting setting.
+    for its delicate entrées, various steak cuts and seafood. La Maison Verte
+    offers a sublime experience where you can savor the delightful flavors of
+    French cuisine in a sophisticated and enchanting setting.
 
 
     **Hours of Operation**
