@@ -34,7 +34,7 @@ intro:
     OPEN DAILY (1:30PM – 12:00AM midnight)
 
 
-    *Also, open for Group Reservation*
+    *Also open for Group Reservation*
 
 
     For reservations [+962 6 5685746](tel:+96265685746)
@@ -42,75 +42,91 @@ menu:
   - heading: Cold Starters
     id: cold-starters
     text: |-
-      **Baby Gem & Celery**
+      **LMV SALAD** 
 
-      **LMV Salad** 
+      **MIXED SALAD** 
 
-      **E﻿ndives Salad, Candied Walnuts, Blue Cheese**
+      **ENDIVE SALAD** 
 
-      **B﻿urrata, Beefheart Tomato, Basil Oil**
+      **KALE SALAD**
 
-      **Smoked Eggplant Gazpacho** 
+      **THREE COLOURS TOMATO SALAD** 
 
-      **Smoked B﻿eef Carpaccio** 
+      **BURRATA, CHERRY TOMATO** 
 
-      **Select Caviar & Condiments**
+      **SMOKED BEEF CARPACCIO** 
 
-      **Shrimps & Avocado Cocktail**
+      **PREMIUM SCOTTISH SMOKED SALMON** 
 
-      **Scottish Smoked Salmon**
+      **SHRIMPS & AVOCADO COCKTAIL**
   - heading: Hot Starters
     id: hot-starters
     text: |-
-      **French Onion Soup**
+      **FRENCH ONION SOUP**
 
-      **100g Escalope de Foie Gras, Porto Reduction**
+      **SOUPE DE POISSONS, ET SA ROUILLE** 
 
-      **Escargots à la Bourguignonne**
+      **ESCALOPE DE FOIE GRAS, APPLE CHIPS, CARAMELIZED ONIONS**         
 
-      **M﻿ushroom Vol-au-Vent**
+      **ESCARGOTS À LA BOURGUIGNONNE**
 
-      **Crispy Calamari & Shrimps, Sauce Tartar**
+      **SPICY SHRIMP RISOTTO**
 
-      **LMV Signature Spaghetti, Sauce Tomate**
+      **LMV SIGNATURE LINGUINE**
+
+      **L’ARRABIATTA DE LMV**
+
+      **SPINACH & RICOTTA RAVIOLI, BASIL PESTO CREAM** 
+
+      **OPEN LASAGNA**
   - heading: Main Courses
     id: main-courses
     text: |-
-      **Pan Seared Salmon**
-      Noilly Prat, Pomme Purée, Sautéed Vegetables
+      **DOVER SOLE MEUNIÈRE - Upon availability** 
 
-      **500g Char Grilled Seabass**
-      Grilled Cherry Tomatoes
+      **FILETS DE PERCHE MEUNIÈRE, TARTAR SAUCE** 
 
-      **Dover Sole Meunière**
-      Lemon Beurre Noisette - Upon Availability
+       **POTATO SCALE SEA BASS**
 
-      **Free Range Chicken Breast**
-      Chanterelle Sauce, Truffle Pomme Purée
+      **PAN SEARED SALMON** 
 
-      **Grilled Veal Paillard**
-      Girolles Mushrooms, Sautéed Vegetables
+      **GRILLED JUMBO SHRIMPS**
 
-      **180g Grilled Prime Beef Tenderloin**
-      Morel Sauce, Gratin Dauphinois, Grilled Asparagus & Cherry Tomatoes
+      **VEAL ÉMINCÉ, MOREL SAUCE**
 
-      **200g Slow Cooked Beef Short Rib**
-      Port Wine Sauce, Carrot & Peas Purée, Onion Confit 
+      **VEAL PICCATA, MUSHROOM RISOTTO** 
 
-      **Lamb Carré**
-      Pomme Purée, Sautéed Vegetables
+      **CHICKEN PAILLARD**
+
+      **ROASTED BABY CHICKEN- Upon availability** 
+
+      **STEAK AU POIVRE OR CAFÉ DE PARIS** 
+
+      **CHARGRILLED PRIME RIBEYE** 
+
+      **BEEF TAGLIATA À L’ÉCHALOTE** 
+
+      **PAN SEARED LAMB CHOPS**
   - heading: Desserts
     id: desserts
     text: |-
-      **Crème Brulée**
+      **CARAMELIZED MILLE-FEUILLE**
 
-      **Chocolate Duchesse** 
+      **CRÈME BRULÉE**
 
-      **Profiteroles, Chocolate Sauce**
+      **PAIN PERDU**
 
-      **LMV Orange Meringe Cake**
+      **PISTACHIO MOELLEUX** 
 
-      **I﻿ce Cream & Sorbet**
+      **STRAWBERRY SUNDAE TULIP** 
+
+      **CHOCOLATE FONDANT**
+
+      **DARK CHOCOLATE CARAMEL MOELLEUX** 
+
+      **PROFITEROLES HOT CHOCOLATE SAUCE**
+
+      **ICE CREAM & SORBET**
 gallery:
   - imgSrc: img/623a4363e.jpg
     imgTitle: Main Dining Room
